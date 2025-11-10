@@ -109,7 +109,7 @@ app.use((err, req, res, next) => {
 ![PUT_200](./postman_screenshots/PUT_200.png)
 ![PUT_409](./postman_screenshots/PUT_409.png)
 ![PUT2_200](./postman_screenshots/PUT2_200.png)
-![PUT2_400](./postman_screenshots/PUT2_400.png)
+![PUT2_400](./postman_screenshots/PUT2_400_new.png)
 
 - **DELETE 메서드 테스트**  
 ![DELETE_200](./postman_screenshots/DELETE_200.png)
